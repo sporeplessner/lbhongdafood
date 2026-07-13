@@ -1,0 +1,40 @@
+# robots.txt for lbhongdafood.com
+# https://lbhongdafood.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://lbhongdafood.com/sitemap.xml
+
+# Disallow any admin or private paths (none for now)
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
+# Specific bot policies
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1

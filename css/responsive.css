@@ -1,0 +1,119 @@
+/* ==============================================
+   lbhongdafood.com - Responsive Styles
+   Mobile-first approach with rich interactions
+   ============================================== */
+
+/* Tablet - 768px */
+@media (max-width: 1024px) {
+  :root {
+    --header-height: 64px;
+  }
+}
+
+/* Mobile - 480px */
+@media (max-width: 768px) {
+  h1 { font-size: clamp(2rem, 8vw, 3rem); }
+  h2 { font-size: clamp(1.75rem, 6vw, 2.5rem); }
+  h3 { font-size: clamp(1.25rem, 4vw, 1.75rem); }
+
+  .section {
+    padding: var(--space-7) 0;
+  }
+
+  .section-title {
+    margin-bottom: var(--space-6);
+  }
+
+  .container {
+    padding: 0 var(--space-4);
+  }
+
+  .hero-section {
+    min-height: 100svh;
+  }
+
+  .hero-stat-value {
+    font-size: 1.5rem;
+  }
+
+  .hero-stat-label {
+    font-size: 0.7rem;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+  }
+
+  .footer-bottom {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-cta {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-cta .btn {
+    width: 100%;
+  }
+
+  .hero-stats {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3);
+  }
+
+  .card {
+    padding: var(--space-4);
+  }
+
+  .service-card {
+    padding: var(--space-5) var(--space-4) var(--space-4);
+  }
+
+  .modal {
+    padding: var(--space-4);
+  }
+}
+
+/* Large screens - 1440px+ */
+@media (min-width: 1440px) {
+  :root {
+    --max-width: 1400px;
+  }
+}
+
+/* 4K - 1920px+ */
+@media (min-width: 1920px) {
+  :root {
+    --max-width: 1600px;
+  }
+}
+
+/* Print styles */
+@media print {
+  .site-header,
+  .site-footer,
+  .menu-toggle,
+  .mobile-nav,
+  .hero-bg,
+  .hero-orb,
+  .hero-particles {
+    display: none;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+}
+
+/* High contrast */
+@media (prefers-contrast: more) {
+  :root {
+    --color-text-muted: #b8c2d0;
+    --color-border: rgba(0, 212, 255, 0.4);
+  }
+}

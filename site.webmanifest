@@ -1,0 +1,25 @@
+{
+  "name": "lbhongdafood.com",
+  "short_name": "lbhongdafood",
+  "description": "lbhongdafood.com is a UK-based R&D studio focused on technology innovation, privacy-first design and immersive digital experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050a14",
+  "theme_color": "#050a14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "developer"]
+}

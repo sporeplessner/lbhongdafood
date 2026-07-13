@@ -1,0 +1,60 @@
+# app-ads.txt
+# Authorized Advertising Sellers for lbhongdafood.com Applications
+# Last updated: 2026-07-13
+
+# Google AdMob
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+
+# Google AdSense
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+
+# Meta Audience Network
+facebook.com, 1529444854227727, DIRECT, c3e20eee3a780acb
+
+# Unity Ads
+unityads.unity3d.com, 4084557, DIRECT, 96cabb5665b35dc8
+
+# AppLovin
+applovin.com, 6d1f4d3a4b1c4d8e8f7d3a4b1c4d8e8f, DIRECT, d7a1d3a4b1c4d8e8f7d3a4b1c4d8e8f
+
+# Chartboost
+chartboost.com, 5e1f4d3a4b1c4d8e8f7d3a4b1c4d8e8f, DIRECT, 4b1c4d8e8f7d3a4b
+
+# Vungle
+vungle.com, 5d2a4f1a8b3c4e5d6f7a8b9c0d1e2f3a, DIRECT, 1a8b3c4e5d6f7a8b9c0d1e2f3a4b5c6d
+
+# IronSource
+ironsrc.com, 8a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d, DIRECT, 4c5d6e7f8a9b0c1d
+
+# Tapjoy
+tapjoy.com, 9b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e, DIRECT, 5d6e7f8a9b0c1d2e
+
+# InMobi
+inmobi.com, 6c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f, DIRECT, 6e7f8a9b0c1d2e3f
+
+# Pangle (Bytedance)
+pangle.io, 7d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a, DIRECT, 7f8a9b0c1d2e3f4a
+
+# Mintegral
+mintegral.com, 8e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b, DIRECT, 8a9b0c1d2e3f4a5b
+
+# Digital Turbine
+digitalturbine.com, 9f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c, DIRECT, 9b0c1d2e3f4a5b6c
+
+# AdColony
+adcolony.com, 0a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d, DIRECT, 0c1d2e3f4a5b6c7d
+
+# Start.io
+start.io, 1b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e, DIRECT, 1d2e3f4a5b6c7d8e
+
+# Liftoff (Vungle)
+liftoff.io, 2c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f, DIRECT, 2e3f4a5b6c7d8e9f
+
+# Moloco
+moloco.com, 3d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a, DIRECT, 3f4a5b6c7d8e9f0a
+
+# Yahoo (Verizon Media)
+yahoo.com, 4e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b, DIRECT, 4a5b6c7d8e9f0a1b
+
+# Microsoft Advertising (Bing)
+microsoft.com, 5f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c, DIRECT, 5b6c7d8e9f0a1b2c
