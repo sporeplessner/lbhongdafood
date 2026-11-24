@@ -1,7 +1,6 @@
 # Google 
 google.com, pub-9222017504240016, DIRECT, f08c47fec0942fa0
 #meta
-facebook.com, 1392663929589648, DIRECT, c3e20eee3f780d68
 facebook.com, 1392663929589648, RESELLER, c3e20eee3f780d68
 facebook.com, 1469864681159298, RESELLER, c3e20eee3f780d68
 facebook.com, 1778010796593568, RESELLER, c3e20eee3f780d68
