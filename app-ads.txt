@@ -6,3 +6,5 @@ facebook.com, 1469864681159298, RESELLER, c3e20eee3f780d68
 facebook.com, 1778010796593568, RESELLER, c3e20eee3f780d68
 # liftoff
 vungle.com, 6b052a1fbc1e90f96ff43164, DIRECT, c107d686becd2d77
+# admob
+google.com, pub-8610156177675251, DIRECT, f08c47fec0942fa0
